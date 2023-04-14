@@ -1,0 +1,6 @@
+p {
+    color: blueviolet;
+    border: 1px solid red;
+    display: inline-block;
+    width: 50%;
+}
